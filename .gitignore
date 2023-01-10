@@ -1,0 +1,5 @@
+/series/migrations/*.*
+/venv/*.*
+/db.sqlite3
+/series/xlsx/*.*
+/.idea/*.*
